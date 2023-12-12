@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hocinewalid
-- 👀 I’m interested in Devops, Cloud, Sofware developement and Astronomy
-- 🌱 I’m currently learning to pentest Web applications and i’m looking to collaborate on Open Source Project
+- 👀 I’m interested in system desing, cloud & on prem system infrastructures,automation  and Astronomy
 - 📫 How to reach me walid.hocine.algerie@viacesi.fr
 
 <!---
